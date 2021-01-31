@@ -4,12 +4,14 @@ on:
 name: Pull Requests
 jobs:
   pullRequestHandler:
-    name: Pull Request Validator
-    runs-on: ubuntu-latest
+    name: PullRequestHandler
+    runs-on: windows-latest
     steps:
     - uses: actions/checkout@main
-    - name: Pull Request Validation
-      uses: Ash258/Scoop-GithubActions@stable
+    - name: PullRequestHandler
+      uses: Ash258/Scoop-GithubActions@stable-win
       env:
-        GITH_EMAIL: youremail@email.com
+        SHOVEL: '1'
+        GIT_USERNAME: 'Aleš Najmann'
+        GITH_EMAIL: 'ales.najmann@gmail.com'
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
