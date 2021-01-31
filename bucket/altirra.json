@@ -1,0 +1,37 @@
+{
+    "version": "3.90",
+    "description": "Altirra is the 8-bit Atari emulator focusing on high-quality emulation, sometimes over speed and polish",
+    "homepage": "http://www.virtualdub.org/altirra.html",
+    "license": "GPL-2.0-only",
+    "architecture": {
+        "64bit": {
+            "url": "http://www.virtualdub.org/downloads/Altirra-3.90.zip",
+            "hash": "dcdbd1813d806309eed9e7ea2ca0e7391033878635977d877f9ae02294b204ac",
+            "bin": "Altirra64.exe",
+            "shortcuts": [
+                [
+                    "Altirra64.exe",
+                    "Altirra"
+                ]
+            ]
+        },
+        "32bit": {
+            "url": "http://www.virtualdub.org/downloads/Altirra-3.90.zip",
+            "hash": "dcdbd1813d806309eed9e7ea2ca0e7391033878635977d877f9ae02294b204ac",
+            "bin": "Altirra.exe",
+            "shortcuts": [
+                [
+                    "Altirra.exe",
+                    "Altirra"
+                ]
+            ]
+        }
+    },
+    "checkver": {
+        "url": "http://www.virtualdub.org/altirra.html",
+        "regex": "Version ([\\d.]+): \\["
+    },
+    "autoupdate": {
+        "url": "http://www.virtualdub.org/downloads/Altirra-$version.zip"
+    }
+}
