@@ -13,7 +13,9 @@
             "ProSystem Atari 7800"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/gstanton/ProSystem1_3"
+    },
     "autoupdate": {
         "url": "https://github.com/gstanton/ProSystem$underscoreVersion/releases/download/v$version/ProSystem_$underscoreVersion.zip",
         "extract_dir": "ProSystem_$cleanVersion"
