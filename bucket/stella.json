@@ -13,7 +13,7 @@
                     "Stella.exe",
                     "Stella"
                 ]
-            ]        
+            ]
         },
         "32bit": {
             "url": "https://github.com/stella-emu/stella/releases/download/6.5.1/Stella-6.5.1-win32.exe",
