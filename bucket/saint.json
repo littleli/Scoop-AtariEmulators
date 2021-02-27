@@ -2,7 +2,7 @@
     "version": "2.40",
     "description": "SainT is a Windows based cycle accurate ATARI-ST emulator",
     "homepage": "http://leonard.oxg.free.fr/SainT/saint.html",
-    "license": "",
+    "license": "Freeware",
     "url": "http://leonard.oxg.free.fr/SainT/SainT240.zip",
     "hash": "a30c15f485bcc7ada635a5eb1654ff5cf805da8d141a1b64d4e83a26d609b0fa",
     "extract_dir": "SainT",
