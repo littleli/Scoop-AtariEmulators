@@ -13,6 +13,7 @@ scoop update
 
 scoop install a7800
 scoop install altirra
+scoop install aranym
 scoop install asap
 scoop install atari800
 scoop install handy
@@ -33,6 +34,7 @@ scoop install xformer
 |-|-|-|
 | [a7800](https://github.com/7800-devtools/a7800) | 8-bit console | An Atari 7800 emulator |
 | [altirra](http://www.virtualdub.org/altirra.html) | 8-bit computer | Very accurate 8-bit Atari computer emulator |
+| [aranym](https://aranym.github.io) | 32-bit OS | ARAnyM is a VM (similar to VirtualBox or Bochs) designed for running 32-bit Atari ST/TT/Falcon OSes |
 | [asap](http://asap.sourceforge.net) | POKEY chip | A player of Atari 8-bit chiptunes for modern computers. Emulates POKEY sound chip and the 6502 cpu |
 | [atari800](https://atari800.github.io) | 8-bit computer | Very portable 8-bit Atari computer emulator |
 | [handy](http://handy.sourceforge.net) | 8-bit handheld | Legacy emulator of Lynx handheld from Atari (codename Handy) |
