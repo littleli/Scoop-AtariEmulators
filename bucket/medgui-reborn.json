@@ -1,10 +1,10 @@
 {
-    "version": "0.116",
+    "version": "0.117",
     "description": "Frontend and launcher for Mednafen multi emulator",
     "homepage": "https://github.com/Speedvicio/MedGuiReborn",
     "license": "CC0-1.0",
-    "url": "https://github.com/Speedvicio/MedGuiReborn/releases/download/v0.116/MedGui.Reborn.v0.116.full.zip",
-    "hash": "099329da263eedca395231572d2259df9a267df4728c08eb66d27cea60da40c5",
+    "url": "https://github.com/Speedvicio/MedGuiReborn/releases/download/v0.117/MedGui.Reborn.v0.117.full.zip",
+    "hash": "86b5232c75b0a3d975a9301d746d845c74ed29f62654ef553ee7cdde238f723a",
     "extract_dir": "MedGui Reborn",
     "bin": "MedGuiR.exe",
     "shortcuts": [
