@@ -9,6 +9,12 @@
         "ASAP\\asapconv.exe",
         "ASAP\\wasap.exe"
     ],
+    "shortcuts": [
+        [
+            "wasap.exe",
+            "WASAP"
+        ]
+    ],
     "checkver": {
         "url": "https://sourceforge.net/projects/asap/rss",
         "regex": "asap-([\\d.]+)-"
