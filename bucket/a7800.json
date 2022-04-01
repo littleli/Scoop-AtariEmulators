@@ -1,10 +1,10 @@
 {
-    "version": "4.0",
+    "version": "5.0",
     "description": "An Atari 7800 emulator",
     "homepage": "https://github.com/7800-devtools/a7800",
     "license": "GPL-2.0-or-later,CC0-1.0",
-    "url": "https://github.com/7800-devtools/a7800/releases/download/v4.0/a7800-win-v4.0.zip",
-    "hash": "81becd4215f1fe05b6b664ee12f99e20c93e6fe28fc9f9ca4191dff4afdf2a31",
+    "url": "https://github.com/7800-devtools/a7800/releases/download/v5.0/a7800-win-v5.0.zip",
+    "hash": "b13479d315e2d2a2f7e4f73459ab5934c66166d1992357434532c52a913210d7",
     "persist": "a7800.ini",
     "bin": "a7800.exe",
     "shortcuts": [
