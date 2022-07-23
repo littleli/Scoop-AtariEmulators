@@ -31,7 +31,7 @@
     },
     "checkver": {
         "url": "https://sourceforge.net/projects/steemsse/rss",
-        "re": "/Steem\\.SSE\\.([\\d.]+)\\.Win64\\.D3D\\.R32\\.zip"
+        "regex": "/Steem\\.SSE\\.([\\d.]+)\\.Win64\\.D3D\\.R32\\.zip"
     },
     "autoupdate": {
         "architecture": {

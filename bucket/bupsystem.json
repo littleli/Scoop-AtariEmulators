@@ -13,7 +13,7 @@
     ],
     "checkver": {
         "url": "http://tailchao.com/BupSystem/",
-        "re": "BupSystem ([\\d.]+)"
+        "regex": "BupSystem ([\\d.]+)"
 
     },
     "autoupdate": {
