@@ -16,6 +16,7 @@ scoop install altirra
 scoop install aranym
 scoop install asap
 scoop install atari800
+scoop install bupsystem
 scoop install emu7800
 scoop install handy
 scoop install hatari
@@ -38,6 +39,7 @@ scoop install xformer
 | [aranym](https://aranym.github.io) | 32-bit OS | ARAnyM is a VM (similar to VirtualBox or Bochs) designed for running 32-bit Atari ST/TT/Falcon OSes |
 | [asap](http://asap.sourceforge.net) | POKEY chip | A player of Atari 8-bit chiptunes for modern computers. Emulates POKEY sound chip and the 6502 cpu |
 | [atari800](https://atari800.github.io) | 8-bit computer | Very portable 8-bit Atari computer emulator |
+| [bupsystem](http://tailchao.com/BupSystem/) | 8-bit console | Closed source Atari 7800 ProSystem emulator |
 | [emu7800](https://emu7800.github.io/) | 8-bit console | Emulates the Atari 7800 ProSystem video game console |
 | [handy](http://handy.sourceforge.net) | 8-bit handheld | Legacy emulator of Lynx handheld from Atari (codename Handy) |
 | [hatari](https://hatari.tuxfamily.org) | 16-bit computer | A very nice emulator of Atari-ST, TT, Falcon |
