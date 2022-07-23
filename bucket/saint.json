@@ -24,7 +24,7 @@
     ],
     "checkver": {
         "url": "http://leonard.oxg.free.fr/SainT/versions.txt",
-        "re": "^([\\d.]+)"
+        "regex": "^([\\d.]+)"
     },
     "autoupdate": {
         "url": "http://leonard.oxg.free.fr/SainT/SainT$cleanVersion.zip"
