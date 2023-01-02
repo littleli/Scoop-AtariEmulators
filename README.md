@@ -30,7 +30,13 @@ scoop install virtualjaguar
 scoop install xformer
 ```
 
-## What emulators are available in this bucket?
+There is also a RASTER Music Tracker available in this scoop.
+
+```sh
+scoop install rmt
+```
+
+## What emulators and tools are available in this bucket?
 
 | Emulator | Type | Description |
 |-|-|-|
@@ -46,6 +52,7 @@ scoop install xformer
 | [medgui-reborn](https://github.com/Speedvicio/MedGuiReborn) | frontend | Frontend for Mednafen (supports Lynx, but is part of extras bucket) |
 | [phoenixemu](http://www.arts-union.ru/node/23) | 32-bit console | Russian emulator of Jaguar emulator, it's in active development and only in russian language |
 | [prosystem](http://gstanton.github.io/ProSystem1_3) | 8-bit console | An emulator of Atari 7800 VCS with a decent user experience |
+| [RMT](https://github.com/VinsCool/RASTER-Music-Tracker) | Tool | RASTER Music Tracker (RMT) is a cross-platform tool for making Atari XE/XL music on PC (OS Win9x) |
 | [saint](http://leonard.oxg.free.fr/SainT/saint.html) | 16-bit computer | A bit dated but high-quality emulator of Atari-ST, TT and Falcon |
 | [steemsse](https://sourceforge.net/projects/steemsse) | 16-bit computer | A very good emulator of Atari ST, TT systems |
 | [stella](https://stella-emu.github.io) | 8-bit console | A famous and portable Atari 2600 VCS emulator |
