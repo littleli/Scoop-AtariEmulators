@@ -18,6 +18,7 @@ scoop install asap
 scoop install atari800
 scoop install bupsystem
 scoop install emu7800
+scoop install felix
 scoop install handy
 scoop install hatari
 scoop install megui-reborn
@@ -47,6 +48,7 @@ scoop install rmt
 | [atari800](https://atari800.github.io) | 8-bit computer | Very portable 8-bit Atari computer emulator |
 | [bupsystem](http://tailchao.com/BupSystem/) | 8-bit console | Closed source Atari 7800 ProSystem emulator |
 | [emu7800](https://emu7800.github.io/) | 8-bit console | Emulates the Atari 7800 ProSystem video game console |
+| [felix](https://github.com/laoo/Felix) | 8-bit handheld | Modern Atari Lynx Emulator |
 | [handy](http://handy.sourceforge.net) | 8-bit handheld | Legacy emulator of Lynx handheld from Atari (codename Handy) |
 | [hatari](https://hatari.tuxfamily.org) | 16-bit computer | A very nice emulator of Atari-ST, TT, Falcon |
 | [medgui-reborn](https://github.com/Speedvicio/MedGuiReborn) | frontend | Frontend for Mednafen (supports Lynx, but is part of extras bucket) |
