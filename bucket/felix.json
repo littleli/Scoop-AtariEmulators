@@ -1,0 +1,18 @@
+{
+    "version": "0.5.0",
+    "description": "Atari Lynx emulator",
+    "homepage": "https://github.com/laoo/Felix",
+    "license": "MIT",
+    "url": "https://github.com/laoo/Felix/releases/download/v0.5.0/Felix.exe",
+    "hash": "f92fa66e6e95948d1dcc377ea9140470c3d9bed2da8b3e3d3645477f7b1698d3",
+    "shortcuts": [
+        [
+            "Felix.exe",
+            "Felix - Atari Lynx Emulator"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/laoo/Felix/releases/download/v$version/Felix.exe"
+    }
+}
