@@ -12,6 +12,7 @@ scoop bucket add atari-emulators https://github.com/littleli/Scoop-AtariEmulator
 scoop update
 
 scoop install a7800
+scoop install a8e
 scoop install altirra
 scoop install aranym
 scoop install asap
@@ -41,6 +42,7 @@ scoop install rmt
 
 | Emulator | Type | Description |
 |-|-|-|
+| [a8e](https://github.com/AnimaInCorpore/A8E) | 8-bit console | New freeware Atari 8-bit emulator |
 | [a7800](https://github.com/7800-devtools/a7800) | 8-bit console | An Atari 7800 emulator |
 | [altirra](http://www.virtualdub.org/altirra.html) | 8-bit computer | Very accurate 8-bit Atari computer emulator |
 | [aranym](https://aranym.github.io) | 32-bit OS | ARAnyM is a VM (similar to VirtualBox or Bochs) designed for running 32-bit Atari ST/TT/Falcon OSes |
