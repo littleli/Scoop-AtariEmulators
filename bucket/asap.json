@@ -1,30 +1,36 @@
 {
-    "version": "8.0.0",
+    "version": "8.0.1",
     "description": "ASAP is a player of Atari 8-bit chiptunes for modern computers and mobile devices",
     "homepage": "http://asap.sourceforge.net",
     "license": "GPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://downloads.sourceforge.net/project/asap/asap/8.0.0/asap-8.0.0-win64.msi",
-            "hash": "8564f7e74e559f175bb52c51bb9846928642f214940beb922fe03e7467382455",
+            "url": "https://downloads.sourceforge.net/project/asap/asap/8.0.1/asap-8.0.1-win64.msi",
+            "hash": "8326a415154eb29d0f59455b94c3ebf8f683f027fca4ebb8ee7858e3c0ab0c7b",
             "bin": [
                 "PFiles64\\ASAP\\asapconv.exe",
                 "PFiles64\\ASAP\\wasap.exe"
             ],
             "shortcuts": [
-                ["PFiles64\\ASAP\\wasap.exe", "WASAP"]
+                [
+                    "PFiles64\\ASAP\\wasap.exe",
+                    "WASAP"
+                ]
             ]
         },
         "32bit": {
-            "url": "https://downloads.sourceforge.net/project/asap/asap/8.0.0/asap-8.0.0-win32.msi",
-            "hash": "2d1f6470ce5ca0fa6f1b968a0a67e822e44684e202bf90140289b8b9a2b59f08",
+            "url": "https://downloads.sourceforge.net/project/asap/asap/8.0.1/asap-8.0.1-win32.msi",
+            "hash": "dd30fb905d9d346e3357079bfda6018b139e0f8171380a42881eab8552668800",
             "bin": [
                 "PFiles\\ASAP\\asapconv.exe",
                 "PFiles\\ASAP\\wasap.exe"
             ],
             "shortcuts": [
-                ["PFiles\\ASAP\\wasap.exe", "WASAP"]
-            ],
+                [
+                    "PFiles\\ASAP\\wasap.exe",
+                    "WASAP"
+                ]
+            ]
         }
     },
     "checkver": {
